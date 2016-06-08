@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
  gem 'bootstrap-sass'		
 
-gem 'devise',"~>3.0.3"
+gem 'devise', github: 'plataformatec/devise'
 
 
 group :development, :test do
