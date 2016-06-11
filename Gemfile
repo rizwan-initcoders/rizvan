@@ -26,6 +26,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
  gem 'bootstrap-sass'		
 
 gem 'devise', github: 'plataformatec/devise'
+gem "paperclip", "~> 5.0.0.beta1"
 
 
 group :development, :test do
