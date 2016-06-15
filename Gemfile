@@ -18,9 +18,9 @@ gem 'will_paginate', '~> 3.1.0'
 gem 'will_paginate-bootstrap'
 
 
-# group :developement, :test do
-# 	gem 'sqlite3'
-# end
+group :developement, :test do
+	gem 'sqlite3'
+end
 
 group :production do
 	gem 'pg'
